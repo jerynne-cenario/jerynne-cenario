@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jerynne-cenario
+- 👀 Passionate about community service, web accessibility, and computer security.
+- 🌱 Currently learning how to find web vulnerabilities
+- 📫 jerynne@outlook.com
+- 😄 she/her
